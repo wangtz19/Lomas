@@ -2,3 +2,5 @@ corpus/
 model/
 output/
 plot/
+data/
+__pycache__/
